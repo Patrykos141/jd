@@ -1,0 +1,17 @@
+{
+  "configurations": [
+    {
+      "name": "Win64",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/Users/Patryk/AppData/Local/Programs/Python/Python312/include",
+        "C:/Users/Patryk/AppData/Local/Programs/Python/Python312/Lib/site-packages/pybind11/include"
+      ],
+      "defines": [],
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-msvc-x64"
+    }
+  ],
+  "version": 4
+}
